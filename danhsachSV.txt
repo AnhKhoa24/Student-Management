@@ -7,7 +7,6 @@
 85,Portugal,Joan Felix,Nam,10/11/1999
 92,Portugal,Cristiano Ronaldo,Nam,05/02/1985
 95,Portugal,Rui Patricio,Nam,15/02/1988
-96,MC,Luu Huynh N,Nu,17/06/2003
 99,VN,Huynh Anh Khoa,Nam,24/05/2003
 17642,Netherlands,Ruud Gullit,Nam,1/9/1962
 12557,Croatia,Luka Modric,Nam,9/9/1985
