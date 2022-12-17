@@ -12,4 +12,3 @@
 17642,Netherlands,Ruud Gullit,Nam,1/9/1962
 12557,Croatia,Luka Modric,Nam,9/9/1985
 17157,Croatia,Andrej Kramaric,Nam,19/6/1991
-11679,Viet Nam,Huynh Khoa Khoa,Nam,11/11/2003

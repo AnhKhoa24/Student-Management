@@ -357,7 +357,8 @@ void menuv2()
         }
         case 7:
         {
-            //còn lỗi khi xóa sinh viên chưa cập nhật khóa, chờ update nâng cấp
+          khoalatao.clear();
+          doc_khoa();
           ct_so_7();
           break;
         }
